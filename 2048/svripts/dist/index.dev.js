@@ -1,0 +1,9 @@
+"use strict";
+
+var grid = new Grid();
+var tile = new Tile({
+  row: 0,
+  column: 0
+}, 2);
+grid.add(tile);
+console.log(grid);
