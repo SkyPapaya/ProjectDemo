@@ -29,6 +29,17 @@
           <version>4.1.0</version>
         </dependency>
         <dependency>
+            <groupId>com.kennycason</groupId>
+            <artifactId>kumo-core</artifactId>
+            <version>1.17</version>
+        </dependency>
+        <!-- 下面tokenizers是为了中文分词引入 -->
+        <dependency>
+            <groupId>com.kennycason</groupId>
+            <artifactId>kumo-tokenizers</artifactId>
+            <version>1.17</version>
+        </dependency>
+        <dependency>
           <groupId>com.alibaba</groupId>
           <artifactId>fastjson</artifactId>
           <version>1.2.62</version>
