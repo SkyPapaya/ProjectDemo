@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/HomePage/HomePage",
+    "pages/login/login",
+    "pages/BlueTooth/BlueTooth",
+    "pages/device/device"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "enablePullDownRefresh": true
+}
