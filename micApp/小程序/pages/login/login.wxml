@@ -1,8 +1,0 @@
-<view class="top">
-  
-<text class="wenzi">输入用户账号</text>
-<input class="input" bindinput="getzhh"></input>
-<text class="wenzi">输入用户密码</text>
-<input class="input" bindinput="getmima"></input>
-<button class="anniudenglu" bindtap="denglu" type="primary">登录</button>
-</view>
