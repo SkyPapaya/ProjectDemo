@@ -1,0 +1,62 @@
+{
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "projectname": "%E5%B0%8F%E7%A8%8B%E5%BA%8F",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "我的",
+          "pathName": "pages/me/me",
+          "query": "pages/me/me",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "登陆账号",
+          "pathName": "pages/login/login",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "登录",
+          "pathName": "pages/denglu/denglu",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "最开始页面",
+          "pathName": "pages/lianjie/lianjie",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/weixin/weixin",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "",
+          "pathName": "pages/indexxiugai/indexxiugai",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        },
+        {
+          "name": "首页",
+          "pathName": "pages/index1/index1",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

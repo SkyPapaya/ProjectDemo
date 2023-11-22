@@ -1,0 +1,36 @@
+/*蓝牙功能wxml 开始*/
+.BlueTooth-content{
+  height: 300rpx;
+
+  border: 1px solid black;
+  text-align: center;
+  line-height: 300rpx;
+}
+
+
+/*四宫格wxml 开始*/
+.tui-table-view{
+  
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+ 
+}
+.image{
+  height: 70rpx;
+  width: 70rpx;
+}
+.tui-col-3{
+  border: 1rpx solid #839999;
+ flex: 0 0 auto;
+  width:49%;
+  text-align: center;
+  color: #797979;
+  padding: 40rpx 0;
+  font-size: 30rpx;
+  
+}
+/*四宫格wxml 结束*/

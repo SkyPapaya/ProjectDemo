@@ -1,0 +1,19 @@
+/* pages/denglu/denglu.wxss */
+.top{
+  padding-top: 120rpx;
+  padding-left: 50rpx;
+  padding-right: 50rpx;
+}
+.wenzi{
+  margin: 10rpx;
+  font-size: 34rpx;
+}
+
+.input{
+  margin-top: 20rpx;
+  border:2px solid gainsboro;
+  border-radius: 20rpx;
+}
+.anniudenglu{
+  margin-top: 90rpx;
+}
